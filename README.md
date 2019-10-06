@@ -6,8 +6,11 @@ EMOJISET
 
 # Dependencies
 Python
+
 TensorFlow
+
 NumPy
+
 Matplotlib
 
 
